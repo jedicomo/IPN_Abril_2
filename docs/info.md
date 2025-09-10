@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+the calculator can support addition, subtraction, multiplication and division on positive integer number. 
 
 ## How to test
 
-Explain how to use your project
+The project can be tested by entern input through the keypad and then check whether the display shows the desire output.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+The calculator need a 4x4 matrix keypad for input and a 3-digit seven segment display to show the calculated result.
